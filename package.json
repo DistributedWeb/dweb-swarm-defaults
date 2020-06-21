@@ -1,7 +1,7 @@
 {
-  "name": "dat-swarm-defaults",
-  "version": "1.0.2",
-  "description": "Dat Defaults for Discovery Swarm",
+  "name": "dweb-swarm-defaults",
+  "version": "1.0.0",
+  "description": "Official network defaults for the dWeb.",
   "main": "index.js",
   "scripts": {
     "test": "standard && tape test.js"
@@ -13,7 +13,7 @@
   "author": "Dat Project Contributors",
   "license": "MIT",
   "devDependencies": {
-    "discovery-swarm": "^5.1.3",
+    "dweb-discovery-swarm": "^1.0.0",
     "standard": "*",
     "tape": "^4.4.0"
   },
