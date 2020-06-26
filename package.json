@@ -7,10 +7,10 @@
     "test": "standard && tape test.js"
   },
   "keywords": [
-    "dat",
-    "hyperdrive"
+    "dweb",
+    "dwebfs"
   ],
-  "author": "Dat Project Contributors",
+  "author": "DWeb Project Contributors",
   "license": "MIT",
   "devDependencies": {
     "dweb-discovery-swarm": "^1.0.0",
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datproject/dat-swarm-defaults.git"
+    "url": "git+https://github.com/datproject/dweb-swarm-defaults.git"
   },
   "bugs": {
-    "url": "https://github.com/datproject/dat-swarm-defaults/issues"
+    "url": "https://github.com/datproject/dweb-swarm-defaults/issues"
   },
-  "homepage": "https://github.com/datproject/dat-swarm-defaults#readme"
+  "homepage": "https://github.com/datproject/dweb-swarm-defaults#readme"
 }
