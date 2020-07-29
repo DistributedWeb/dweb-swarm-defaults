@@ -4,10 +4,10 @@ var DEFAULT_DISCOVERY = [
   'discovery2.dwebx.net'
 ]
 var DEFAULT_BOOTSTRAP = [
-  'bootstrap1.dwebx.net:6881',
-  'bootstrap2.dwebx.net:6881',
-  'bootstrap3.dwebx.net:6881',
-  'bootstrap4.dwebx.net:6881'
+  'bootstrap1.dwebx.net:6681',
+  'bootstrap2.dwebx.net:6681',
+  'bootstrap3.dwebx.net:6681',
+  'bootstrap4.dwebx.net:6681'
 ]
 
 var DEFAULT_OPTS = {
